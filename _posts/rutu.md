@@ -2,7 +2,7 @@ tejal
 mahi
 dipali
 nilam
-rutu
+rutu Khata amba
 sakshi Badpura
 diya
 ayushi
